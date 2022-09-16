@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test_nfc</string>
+    <string name="servicedesc">F0010203040506</string>
+    <string name="aiddescription">SELECT F0010203040506</string>
+    <string name="Sign_button">Sign in</string>
+    <string name="login_button">Login</string>
+    <string name="pass_button">Password</string>
+    <string name="title_activity_enterscreen">enterscreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_card">Card</string>
+    <string name="title_settings">Settings</string>
+</resources>
